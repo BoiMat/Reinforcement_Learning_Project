@@ -1,6 +1,6 @@
 # Reinforcement Learning Project
 
-This repository contains the source code for a simple reinforcement learning project focused on Pokemon battles. The project includes custom environments, a Pokemon class, a multi-armed bandit class, and a Q-learning class. Additionally, there are two Jupyter notebooks showcasing tests for the multi-armed bandit and Q-learning algorithms.
+This repository contains the source code for the reinforcement learning project focused on Pokemon battles. The project includes custom environments, a Pokemon class, a multi-armed bandit class, and a Q-learning class. Additionally, there are two Jupyter notebooks showcasing tests for the multi-armed bandit and Q-learning algorithms.
 
 ## Project Structure
 
